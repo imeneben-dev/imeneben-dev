@@ -7,7 +7,7 @@ Web deveoper and Designer
 i've been learning web developement ffor 2 years , started with html css and js .
 
 * 🌍  I'm based in Algeria
-* ✉️  You can contact me at [benaissaimene@gmail.com](mailto:benaissaimene@gmail.com)
+* ✉️  You can contact me at [benaissaimene@gmail.com](mailto:benaissaimene244@gmail.com)
 * 🧠  I'm currently learning react
 
 <p align="left">
